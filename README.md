@@ -1,6 +1,6 @@
 # ¡Hola mundo👋!
 
-Hi!! My name is Lucas,im from Argentina and im a self taught front developer looking for my first dev experience.Always trying to learn something new and always grinding! 
+Hi!! My name is Lucas,i'm from Comodoro Rivadavia,Argentina and i'm a self taught front developer looking for my first dev experience.Always trying to learn something new and always grinding! 
 
 <a href="https://www.linkedin.com/in/lucas-videla94/"> <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="30" height="30"> </a>
 <a href="https://www.instagram.com/lucas.videla4/"> <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" width="30" height="30"> </a>
