@@ -8,8 +8,8 @@ Hi!! My name is Lucas,i'm from Comodoro Rivadavia,Argentina and i'm a self taugh
 
 ## _What i'm up to_
 
-- 💻 Working on MERN projects.
-- 🌱 Currently grinding React and Typescript and after that i want to learn about Java and Kotlin.
+- 💻 Working on my coding skills.
+- 🌱 Currently sharping my front end skills and reading more about back end development.
 - 🙌 Aspiring to become a better developer every day,little by little.
 
 ## _Languages and tools_.
