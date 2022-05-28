@@ -2,8 +2,8 @@
 
 Hi!! My name is Lucas,i'm from Comodoro Rivadavia,Argentina and i'm a self taught front developer looking for my first dev experience.Always trying to learn something new and always trying to build cool stuff!!
 
-<a href="https://www.linkedin.com/in/lucas-videla94/"> <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="30" height="30"> </a>
-<a href="https://www.instagram.com/lucas.videla4/"> <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" width="30" height="30"> </a>
+<a href="https://www.linkedin.com/in/lucasandres-videla/"> <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="30" height="30"> </a>
+<a href="https://www.instagram.com/lucasvidela__"> <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" width="30" height="30"> </a>
 
 
 ## _What i'm up to_
