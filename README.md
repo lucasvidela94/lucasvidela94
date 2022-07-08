@@ -15,7 +15,7 @@
 - 📖 Always willing to learn new things.
 - 🐶 I love to code just as much i love my dog,well..
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lucasvidela94&theme=dracula&hide=)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lucasvidela94&theme=dracula&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## _Languages and tools_.
