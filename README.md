@@ -1,7 +1,7 @@
 ## ¡Sup!👋
 <br/>
 
-- Im Lucas,i'm from Argentina and i'm a React web developer and a musician on my spare time,recently i started my backend road with Ruby on rails so im on it right now,catch me in a few months maybe you will get a surprise 🔴💎 
+- Im Lucas,i'm from Argentina and i'm a Web developer focused on React❤ and a musician on my spare time,recently i started my backend road with Ruby on rails so im on it right now,catch me in a few months maybe you will get a surprise 🔴💎 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasandres-videla/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucasan.videla@gmail.com)
