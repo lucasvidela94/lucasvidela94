@@ -6,13 +6,13 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasandres-videla/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucasan.videla@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucasvidela__)
- 
+#### 📌 Website: [Click Aquí](http://lucasvidela.vercel.app)
   
 ### _What i'm doing right now?_  
 <br/>
 
 - 💻 Working on my personal website.
-- 🌱 Currently sharpening my back end on rails. 
+- 🌱 Currently sharpening my back end skills on rails. 
 - 📖 Always willing to learn new things.
 - 🐶 I love to code just as much i love my dog,well..
 
