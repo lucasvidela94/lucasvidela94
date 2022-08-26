@@ -7,7 +7,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucasan.videla@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucasvidela__)
 ### 📌 _Website:_ [Click here](http://lucasvidela.vercel.app)
-  
+   
 ### _What i'm doing right now?_  
 <br/>
 
@@ -17,12 +17,16 @@
 - 🐶 I love to code just as much i love my dog,well..
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lucasvidela94&theme=dracula&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
-
+</br>
+</br>
+## _Badges_.
+<img src="https://media.badgr.com/uploads/badges/assertion-CjxmCnoJSqapsAjfVMoklQ.png" alt="Brigthcoders" style="vertical-align:top; margin:4px;width:150px;height:150px">
 
 ## _Languages and tools_.
 
 
 <p align="center">
+
   <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Twitter" style="vertical-align:top; margin:4px">
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="Twitter" style="vertical-align:top; margin:4px">
    <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" alt="Twitter" style="vertical-align:top; margin:4px">
