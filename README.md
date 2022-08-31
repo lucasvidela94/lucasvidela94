@@ -20,7 +20,7 @@
 </br>
 </br>
 ## _Badges_.
-<img src="https://media.badgr.com/uploads/badges/assertion-CjxmCnoJSqapsAjfVMoklQ.png" alt="Brigthcoders" style="vertical-align:top; margin:4px;width:150px;height:150px">
+<img src="https://api.badgr.io/public/assertions/CjxmCnoJSqapsAjfVMoklQ/image" alt="Brigthcoders" style="vertical-align:top; margin:4px;width:150px;height:150px">
 
 ## _Languages and tools_.
 
