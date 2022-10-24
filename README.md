@@ -19,8 +19,6 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lucasvidela94&theme=dracula&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
 </br>
 </br>
-## _Badges_.
-<img src="https://api.badgr.io/public/assertions/CjxmCnoJSqapsAjfVMoklQ/image" alt="Brigthcoders" style="vertical-align:top; margin:4px;width:150px;height:150px">
 
 ## _Languages and tools_.
 
