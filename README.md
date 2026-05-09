@@ -1,27 +1,14 @@
 # Lucas Videla
-
-Full-stack developer from Argentina.
-
-## About
-
-I build web applications with focus on backend architecture. Currently working with Rails, Phoenix, and Golang for APIs, React and Next.js for frontend interfaces.
-
-## Tech Stack
-
-**Backend:** Ruby on Rails, Phoenix/Elixir, Golang  
-**Frontend:** React, Next.js, Angular, TypeScript  
-**Database:** PostgreSQL, Redis  
-**Tools:** Docker, Git
-
-## Currently
-
-Working on full-stack applications and exploring modern web technologies. Available for interesting projects.
-
-## Get in Touch
-
-- Email: [lucasan.videla@gmail.com](mailto:lucasan.videla@gmail.com)
-- GitHub: [@lucasvidela94](https://github.com/lucasvidela94)
-
----
-
-*Building things step by step.*
+Full-stack developer. I fix things.
+## Stack
+**Web3:** Solidity, Foundry, wagmi, RainbowKit, EVM (Polygon)
+**Backend:** Rails, Phoenix/Elixir, Golang, Fastify, PostgreSQL, Redis
+**Frontend:** React, Next.js, TypeScript, Tailwind, Vite
+**Infra:** Docker, CI/CD, Vercel, Railway
+## Selected work
+- [elenchos](https://github.com/lucasvidela94/elenchos) — Blockchain registration system with smart contracts on Polygon, wagmi wallet connection
+- [dianemo](https://github.com/lucasvidela94/dianemo) — Smart contract document signing with Web3 integration
+- [inverso](https://github.com/lucasvidela94/inverso) — Investment comparison tool, real-time market data
+- [skynul-frontend](https://github.com/nevex-labs/skynul-frontend) — Production monorepo, 97+ commits
+## Contact
+lucasan.videla@gmail.com — [lucasvidela.com.ar](https://lucasvidela.com.ar)
